@@ -6,5 +6,5 @@
 
 
 Open the file in the csv file using IBM SPSS Statistics.
-Run the code steps provided in the syntax/ file,
+Follow the steps mentioned in analyze steps file
 or manually navigate to Analyze → Regression → Linear.Select systolic_bp as your Dependent variable and your demographic/lifestyle metrics as the Independents.
